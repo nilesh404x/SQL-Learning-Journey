@@ -1,4 +1,4 @@
-\# SQL Learning Journey 
+\# SQL Learning Journey
 
 
 
@@ -28,21 +28,16 @@ This repository documents my SQL learning journey while following the freeCodeCa
 
 SQL-Learning-Journey/
 
-│
+README.md
 
-├── README.md
+1. Day01/
 
-├── Day01/
+   * notes.md
+   * queries.sql
+2. Day02/
 
-│   ├── notes.md
-
-│   └── queries.sql
-
-├── Day02/
-
-│   ├── notes.md
-
-│   └── queries.sql
+   * notes.md
+   * queries.sql
 
 
 
