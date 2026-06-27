@@ -57,7 +57,7 @@ README.md
 
 
 
-\- ✅ Day 01 - Repository Setup
+\- ✅ Day 01 - Repository Setup,Completed Basic Queries
 
 \- ⏳ Currently Learning: SQL Basics
 
